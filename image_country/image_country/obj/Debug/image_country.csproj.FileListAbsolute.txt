@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\bin\Debug\image_country.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\bin\Debug\image_country.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\image_country.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\image_country.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\image_country.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\image_country.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\image_country\image_country\obj\Debug\image_country.pdb

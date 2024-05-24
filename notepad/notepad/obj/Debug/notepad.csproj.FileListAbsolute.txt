@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\notepad.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\bin\Debug\notepad.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\bin\Debug\notepad.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\notepad.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\notepad\notepad\obj\Debug\notepad.pdb

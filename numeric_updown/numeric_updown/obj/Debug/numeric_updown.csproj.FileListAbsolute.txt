@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\numeric_updown.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\numeric_updown.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\numeric_updown.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\bin\Debug\numeric_updown.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\bin\Debug\numeric_updown.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\numeric_updown.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\numeric_updown\numeric_updown\obj\Debug\numeric_updown.pdb

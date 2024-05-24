@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\practice3.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\practice3.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\practice3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\bin\Debug\practice3.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\bin\Debug\practice3.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\practice3.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice3\practice3\obj\Debug\practice3.pdb

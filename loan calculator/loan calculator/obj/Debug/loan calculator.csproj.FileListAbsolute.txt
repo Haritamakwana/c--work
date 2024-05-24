@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\bin\Debug\loan calculator.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\bin\Debug\loan calculator.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\loan_calculator.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\loan_calculator.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\loan calculator.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\loan calculator.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\loan calculator\loan calculator\obj\Debug\loan calculator.pdb

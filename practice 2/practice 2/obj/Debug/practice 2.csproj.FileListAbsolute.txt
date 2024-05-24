@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\practice_2.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\practice_2.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\practice 2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\bin\Debug\practice 2.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\bin\Debug\practice 2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\practice 2.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\practice 2\practice 2\obj\Debug\practice 2.pdb

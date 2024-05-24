@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\listbox.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\listbox.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\listbox.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\listbox\listbox\obj\Debug\listbox.pdb

@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+C:\Users\ASUS\Documents\Visual Studio 2008\Projects\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
